@@ -94,6 +94,7 @@ body{
 }
 
 .conteudo-secundario-titulo{
+    border-top: 1px solid #FFF2E7;
     font-family: 'Righteous', cursive;
     font-weight: 400;
     font-size: 24px;
